@@ -1,0 +1,26 @@
+{
+  "name": "unix-crypt",
+  "version": "0.1.0",
+  "description": "Native bindings to UNIX crypt(3)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramvdbogaerde/node-unix-crypt.git"
+  },
+  "author": "Bram Vandenbogaerde",
+  "license": "MIT ",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/bramvdbogaerde/node-unix-crypt/issues"
+  },
+  "homepage": "https://github.com/bramvdbogaerde/node-unix-crypt#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}

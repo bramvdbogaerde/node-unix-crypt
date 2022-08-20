@@ -1,9 +1,7 @@
 Unix Crypt Native Bindings
 ============================
 
-This repository provides native bindings to the `crypt` library that is usually included in UNIX/Linux distributions. This utility is used for hashing passwords in order to securely store information such as login credentials,...
-
-It is used as a hashing mechanism for the `/etc/shadow` file, as well as in other software such as Dovecot.
+This repository provides native bindings to the `crypt` library that is usually included in UNIX/Linux distributions. This utility is used for hashing passwords in order to securely store information such as login credentials. `crypt` is used as a hashing mechanism for the `/etc/shadow` file, as well as in other software such as Dovecot.
 
 ## API
 
